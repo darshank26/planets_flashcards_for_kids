@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "37530142134",
+    "project_id": "planets-flashcards-for-kids",
+    "storage_bucket": "planets-flashcards-for-kids.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37530142134:android:f3c7d09e79b0f615fb2d17",
+        "android_client_info": {
+          "package_name": "com.darshankomu.planets_flashcards_for_kids"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1asjec5ctYDBH_Prf-G-475JK2FkxCyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
